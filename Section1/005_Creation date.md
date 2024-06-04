@@ -1,0 +1,15 @@
+Creation date
+
+Tuesday, August 1, 2023
+
+8:07 AM
+
+ 
+
+-   Created the example this way:
+
+    -   Originally created 2023-10-16
+
+    -   Manually used outlook GUI to set the creation date: 2023-08-01
+
+    -   Last edited: 2024-06-03
